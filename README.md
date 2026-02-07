@@ -2,32 +2,32 @@ Chess Performance Analyzer ♟️📊
 
 A small data analysis project built with Python, Pandas, and Matplotlib to track and visualize my personal chess rating improvement over time.
 
-Features
+Features:
 
-Monthly rating tracking (Rapid, Blitz, Bullet)
+-Monthly rating tracking (Rapid, Blitz, Bullet)
 
-Performance metrics (total rating, efficiency)
+-Performance metrics (total rating, efficiency)
 
-Growth analysis using .diff()
+-Growth analysis using .diff()
 
-Rolling averages for trend detection
+-Rolling averages for trend detection
 
-Best and worst month identification
+-Best and worst month identification
 
-Visualizations (line charts, bar charts, histograms)
+-Visualizations (line charts, bar charts, histograms)
 
-Technologies
+Technologies:
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-Matplotlib
+-Matplotlib
 
-Outputs
+Outputs:
 
-Rating growth dashboard
+-Rating growth dashboard
 
-Games per month bar chart
+-Games per month bar chart
 
-Rating distribution histogram
+-Rating distribution histogram
